@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4b86e2bd6291271eb8c",
-    "url": "/covid/dist/css/about.c2686336.css"
+    "revision": "5de6176f739ba57e9a4b",
+    "url": "/covid/dist/css/about.a715e04d.css"
   },
   {
-    "revision": "3bee1ce831203f7a359f",
-    "url": "/covid/dist/css/app.b52efaff.css"
+    "revision": "d4cb0ac5efb70555be59",
+    "url": "/covid/dist/css/app.5cd09118.css"
   },
   {
     "revision": "f6027b4d84ecbf28f949f7ea89f3771f",
@@ -32,20 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/data/meteorites.csv"
   },
   {
-    "revision": "0bbfa7ef1daa27458b8ae5caa8e52805",
+    "revision": "5e8e6b430c39605850d9825b45708eec",
     "url": "/covid/dist/index.html"
   },
   {
-    "revision": "f4b86e2bd6291271eb8c",
-    "url": "/covid/dist/js/about.aa8f8d80.js"
+    "revision": "5de6176f739ba57e9a4b",
+    "url": "/covid/dist/js/about.8172b531.js"
   },
   {
-    "revision": "3bee1ce831203f7a359f",
-    "url": "/covid/dist/js/app.18b916eb.js"
+    "revision": "d4cb0ac5efb70555be59",
+    "url": "/covid/dist/js/app.ea6c06b5.js"
   },
   {
-    "revision": "2695906e16068c072993",
-    "url": "/covid/dist/js/chunk-vendors.72129791.js"
+    "revision": "b65041a9caf91e475967",
+    "url": "/covid/dist/js/chunk-vendors.75024abd.js"
   },
   {
     "revision": "1f7e65502d66518bb3808c33027fdc61",
