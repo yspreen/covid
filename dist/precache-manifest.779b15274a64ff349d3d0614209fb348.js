@@ -1,14 +1,14 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba780cce31b6cc5f2a27",
-    "url": "/covid/dist/css/about.c934d4a7.css"
+    "revision": "986780baf13ad79060bb",
+    "url": "/covid/dist/css/about.92561e44.css"
   },
   {
-    "revision": "aa4af4a07171033de8e4",
-    "url": "/covid/dist/css/app.df00cebd.css"
+    "revision": "aa57561d12b9696a5090",
+    "url": "/covid/dist/css/app.237e6fd1.css"
   },
   {
-    "revision": "f6027b4d84ecbf28f949f7ea89f3771f",
+    "revision": "de08955fa585ee94c3a28aaf655361f8",
     "url": "/covid/dist/data.json"
   },
   {
@@ -32,20 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/data/meteorites.csv"
   },
   {
-    "revision": "f0077865d632617608ff13f26c800ac6",
+    "revision": "e4f8c1c2074ed28a22d29704e80e2b72",
     "url": "/covid/dist/index.html"
   },
   {
-    "revision": "ba780cce31b6cc5f2a27",
-    "url": "/covid/dist/js/about.07488aab.js"
+    "revision": "986780baf13ad79060bb",
+    "url": "/covid/dist/js/about.f1992144.js"
   },
   {
-    "revision": "aa4af4a07171033de8e4",
-    "url": "/covid/dist/js/app.bb4f476c.js"
+    "revision": "aa57561d12b9696a5090",
+    "url": "/covid/dist/js/app.b8e8ddb5.js"
   },
   {
-    "revision": "b65041a9caf91e475967",
-    "url": "/covid/dist/js/chunk-vendors.75024abd.js"
+    "revision": "00e95385ead10a22d876",
+    "url": "/covid/dist/js/chunk-vendors.3180773b.js"
   },
   {
     "revision": "43e328359ff512944aa6c29943275bc8",
