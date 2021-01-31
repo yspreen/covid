@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/data/meteorites.csv"
   },
   {
-    "revision": "5e8e6b430c39605850d9825b45708eec",
+    "revision": "14fa0c7dd5382ef113e991cc3aaa2d5c",
     "url": "/covid/dist/index.html"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/js/chunk-vendors.75024abd.js"
   },
   {
-    "revision": "1f7e65502d66518bb3808c33027fdc61",
+    "revision": "43e328359ff512944aa6c29943275bc8",
     "url": "/covid/dist/manifest.json"
   },
   {
