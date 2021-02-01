@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/css/app.b6e57e4a.css"
   },
   {
-    "revision": "c3f22c78c6bc06b47b9b8a0536940382",
+    "revision": "991b5079ce5ed279503954ccf9761f51",
     "url": "/covid/dist/data.json"
   },
   {
