@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83773f155be4e9724d05",
-    "url": "/covid/dist/css/about.4cf6c870.css"
+    "revision": "52196abc25a2d7c4dc9b",
+    "url": "/covid/dist/css/about.63413cd0.css"
   },
   {
-    "revision": "97df7112fc780eaa3eb0",
+    "revision": "d5b81bf49a12411be906",
     "url": "/covid/dist/css/app.b6e57e4a.css"
   },
   {
@@ -32,16 +32,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/data/meteorites.csv"
   },
   {
-    "revision": "6ea9afd1890bb241f8ea5aa7aaa20714",
+    "revision": "67bba56416c4c00c9272277ad0299eca",
     "url": "/covid/dist/index.html"
   },
   {
-    "revision": "83773f155be4e9724d05",
-    "url": "/covid/dist/js/about.204b7eaf.js"
+    "revision": "52196abc25a2d7c4dc9b",
+    "url": "/covid/dist/js/about.9edcb6ee.js"
   },
   {
-    "revision": "97df7112fc780eaa3eb0",
-    "url": "/covid/dist/js/app.969edc60.js"
+    "revision": "d5b81bf49a12411be906",
+    "url": "/covid/dist/js/app.e8cea38d.js"
   },
   {
     "revision": "00e95385ead10a22d876",
