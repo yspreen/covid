@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f4a1a4125088b35254a7",
-    "url": "/covid/dist/css/about.27a9dcc7.css"
+    "revision": "1b7887211bc4bfb79d7f",
+    "url": "/covid/dist/css/about.f13c9caa.css"
   },
   {
-    "revision": "a460c2c798ffedada5a1",
+    "revision": "40aeac66e4c0c7c49ee7",
     "url": "/covid/dist/css/app.74bb9969.css"
   },
   {
@@ -40,16 +40,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/img/ios.9586bbd3.jpg"
   },
   {
-    "revision": "e3ea3b5cad787ff26e5ce73119a2e487",
+    "revision": "6397417729d14bd180e8c49425420606",
     "url": "/covid/dist/index.html"
   },
   {
-    "revision": "f4a1a4125088b35254a7",
-    "url": "/covid/dist/js/about.ac7bae2c.js"
+    "revision": "1b7887211bc4bfb79d7f",
+    "url": "/covid/dist/js/about.307b807e.js"
   },
   {
-    "revision": "a460c2c798ffedada5a1",
-    "url": "/covid/dist/js/app.d460858a.js"
+    "revision": "40aeac66e4c0c7c49ee7",
+    "url": "/covid/dist/js/app.5e9bf4d0.js"
   },
   {
     "revision": "00215b94772f824a2cd7",
