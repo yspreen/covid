@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52196abc25a2d7c4dc9b",
-    "url": "/covid/dist/css/about.63413cd0.css"
+    "revision": "f4a1a4125088b35254a7",
+    "url": "/covid/dist/css/about.27a9dcc7.css"
   },
   {
-    "revision": "d5b81bf49a12411be906",
-    "url": "/covid/dist/css/app.b6e57e4a.css"
+    "revision": "a460c2c798ffedada5a1",
+    "url": "/covid/dist/css/app.74bb9969.css"
   },
   {
     "revision": "991b5079ce5ed279503954ccf9761f51",
@@ -32,20 +32,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/data/meteorites.csv"
   },
   {
-    "revision": "67bba56416c4c00c9272277ad0299eca",
+    "revision": "5db8304f5af42734107bf8f0d0c0f887",
+    "url": "/covid/dist/img/android.5db8304f.jpg"
+  },
+  {
+    "revision": "9586bbd3685ae9f9d6ce29b27ef6c330",
+    "url": "/covid/dist/img/ios.9586bbd3.jpg"
+  },
+  {
+    "revision": "e3ea3b5cad787ff26e5ce73119a2e487",
     "url": "/covid/dist/index.html"
   },
   {
-    "revision": "52196abc25a2d7c4dc9b",
-    "url": "/covid/dist/js/about.9edcb6ee.js"
+    "revision": "f4a1a4125088b35254a7",
+    "url": "/covid/dist/js/about.ac7bae2c.js"
   },
   {
-    "revision": "d5b81bf49a12411be906",
-    "url": "/covid/dist/js/app.e8cea38d.js"
+    "revision": "a460c2c798ffedada5a1",
+    "url": "/covid/dist/js/app.d460858a.js"
   },
   {
-    "revision": "00e95385ead10a22d876",
-    "url": "/covid/dist/js/chunk-vendors.3180773b.js"
+    "revision": "00215b94772f824a2cd7",
+    "url": "/covid/dist/js/chunk-vendors.aad1e315.js"
   },
   {
     "revision": "0b5d7460f736bbb9cb34f8aa2d6aa073",
