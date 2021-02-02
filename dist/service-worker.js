@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/covid/dist/precache-manifest.f5ca8d5062c473dec8fadb4d5b1d5a5e.js"
+  "/covid/dist/precache-manifest.335c46f8003a501a0467ec9817b3c2dd.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "covid"});
