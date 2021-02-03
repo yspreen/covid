@@ -1,4 +1,4 @@
-![Logo](https:////yspreen.github.io/covid/dist/img/icons/apple-touch-icon-152x152.png)
+![Logo](https://yspreen.github.io/covid/dist/img/icons/apple-touch-icon-152x152.png)
 
 # [COVID Info Page 🦠](//covid-info.page)
 
