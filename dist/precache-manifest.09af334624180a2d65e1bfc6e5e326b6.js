@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/css/about.2c3c8b36.css"
   },
   {
-    "revision": "15541210e5a4c690ec32",
+    "revision": "7108529747581e58e6ca",
     "url": "/covid/dist/css/app.3d0a7d7e.css"
   },
   {
@@ -40,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/img/ios.9586bbd3.jpg"
   },
   {
-    "revision": "490d590a8359624b1b839744e2ad05cd",
+    "revision": "f09a843be6ff85b59ca9f365b935f231",
     "url": "/covid/dist/index.html"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid/dist/js/about.87386762.js"
   },
   {
-    "revision": "15541210e5a4c690ec32",
-    "url": "/covid/dist/js/app.fe3f3938.js"
+    "revision": "7108529747581e58e6ca",
+    "url": "/covid/dist/js/app.00f6b3c7.js"
   },
   {
     "revision": "aa99d8894cb957fa6505",
