@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dist/css/add.cfe17084.css"
   },
   {
-    "revision": "1f2260eaddaa1f372bb5",
-    "url": "/dist/css/app.5462778a.css"
+    "revision": "294f2378c3c11019cb4e",
+    "url": "/dist/css/app.2f77ebdd.css"
   },
   {
     "revision": "45d25f164c88723a5464",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dist/img/ios.9586bbd3.jpg"
   },
   {
-    "revision": "c3d6eb933374177eb56be2e1fb068fe7",
+    "revision": "38e8ad3f3784b792c3105459dd1ef03a",
     "url": "/dist/index.html"
   },
   {
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dist/js/add~gps.17b214e9.js"
   },
   {
-    "revision": "1f2260eaddaa1f372bb5",
-    "url": "/dist/js/app.96f76cae.js"
+    "revision": "294f2378c3c11019cb4e",
+    "url": "/dist/js/app.291ca377.js"
   },
   {
     "revision": "baccf0170bb0b1945882",
